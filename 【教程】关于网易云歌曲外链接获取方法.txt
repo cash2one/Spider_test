@@ -1,0 +1,9 @@
+首先 找到你要下载的歌曲 用网页版打开 复制链接中的歌曲ID 如：
+Mike Zhou - The Dawn (亡灵序曲完美钢琴版) [Cover Dreamtale]
+http://music.163.com/#/song?id=476592630
+ID就是476592630
+然后将ID替换到链接 http://music.163.com/song/media/outer/url?id= .mp3 中
+如：http://music.163.com/song/media/outer/url?id=798285813.mp3
+复制这个链接 就可以直接通过网页打开纯mp3地址了 添加到下载工具中也可下载 还能添加到QQ空间背景音乐中
+原作者：Mike-Zhou
+链接：http://music.163.com/#/topic?id=18506054
